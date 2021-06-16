@@ -13,7 +13,7 @@
 // Initialize Wifi connection to the router
 #define WIFI_SSID "wifi_da_sua_casa"
 #define WIFI_PASSWORD "senha_da_wifi_da_sua_casa"
-#define BOTtoken "NNNNNNNNN:um-monte-de-letra-e-numero"  // Seu token do telegram
+#define BOTtoken "seu token md5"  // use um token md5 para essa variavel
 
 #define LED_PIN D3
 #define RELAY_PIN D6
